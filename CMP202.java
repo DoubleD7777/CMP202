@@ -8,7 +8,7 @@ public class CMP202 {
     void printUserDetails() {
         age = 18;
         height = 180;
-        name = "Brown";
+        name = "Francis";
         name.length();
         password = "User@123";
         if (password.contains("1234") || password.contains("User")) {
